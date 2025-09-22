@@ -1,6 +1,6 @@
 # Distributed Supply Management System (DSMS)
 
-Java RMI implementation of the SOEN 423 Assignment 1 – Distributed Supply Management System. Three store servers (QC, ON, BC) expose manager and customer operations such as adding items, purchasing across stores, waitlist processing and returns with 30-day policy enforcement.
+Java RMI implementation – Distributed Supply Management System. Three store servers (QC, ON, BC) expose manager and customer operations such as adding items, purchasing across stores, waitlist processing and returns with 30-day policy enforcement.
 
 ## Project Structure
 
